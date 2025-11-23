@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "vector": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "cmath": "cpp",
+        "generator.h": "c",
+        "stdlib.h": "c",
+        "stdint.h": "c",
+        "biomes.h": "c"
+    }
+}
